@@ -1,0 +1,94 @@
+body
+{
+    background-color: rgb(160, 158, 158);
+}
+
+header
+{
+    background-color: rgb(76, 118, 173);
+}
+
+#img1
+{
+    width: 600px;
+    height: 500px;
+    margin-left: 380px;
+}
+
+h1
+{
+    text-align: center;
+    font-family: cursive;
+    font-size: 60px;
+}
+
+#menu
+{
+    list-style-type: none;
+    display: inline-block;
+    color: rgb(1, 25, 26);
+    font-size: 40px;
+    padding: 6px;
+    text-decoration: none;
+} 
+
+#menu :hover
+{
+    color: rgb(168, 9, 9);
+}
+
+nav
+{
+    margin-top: 100px;
+    margin-left: 150px;
+}
+
+#img
+{
+    width: 500px;
+    height: 400px;
+}
+
+.haut
+{
+    float: left;
+    margin-right: 15px;
+}
+
+.milieu
+{
+    float: right;
+    margin-left: 15px;
+}
+
+.bas
+{
+    float: left;
+    margin-right: 15px;
+}
+
+.Div1
+{
+    margin-top: 100px;
+}
+
+.Div2
+{
+    margin-top: 250px;
+    
+}
+
+.Div3
+{
+    margin-top: 350px;  
+}
+
+p
+{
+    font-family: 'Times New Roman';
+}
+
+p
+{
+    font-size: 35px;
+}
